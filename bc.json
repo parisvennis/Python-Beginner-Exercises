@@ -179,7 +179,7 @@
         {
             "slug": "11-Create-A-New-Function",
             "title": "11-Create-A-New-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-A-New-Function",
             "translations": [
                 "es",
@@ -190,7 +190,7 @@
         {
             "slug": "14-Rand-From-One-to-Six",
             "title": "14-Rand-From-One-to-Six",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Rand-From-One-to-Six",
             "translations": [
                 "es",
@@ -201,7 +201,7 @@
         {
             "slug": "15-Your-First-Loop",
             "title": "15-Your-First-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Your-First-Loop",
             "translations": [
                 "es",
@@ -212,7 +212,7 @@
         {
             "slug": "16-Create-A-For-Loop",
             "title": "16-Create-A-For-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Create-A-For-Loop",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "18-Random-Colors-Loop",
             "title": "18-Random-Colors-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Random-Colors-Loop",
             "translations": [
                 "es",
